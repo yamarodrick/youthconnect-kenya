@@ -1,0 +1,12 @@
+num1 = 20
+num2 = 10
+
+sum = num1 + num2
+difference = num1 - num2
+product = num1 * num2
+division = num1 / num2
+
+print("Addition:", sum)
+print("Subtraction:", difference)
+print("Multiplication:", product)
+print("Division:", division)
